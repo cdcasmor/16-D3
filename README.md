@@ -1,3 +1,9 @@
+[![built with CSS](https://img.shields.io/badge/built%20with-CSS-red.svg)](https://www.python.org/)
+[![built with HTML5](https://img.shields.io/badge/built%20with-HTML5-yellowgreen.svg)](https://www.python.org/)
+[![built with javascript](https://img.shields.io/badge/built%20with-javascript-brightgreen.svg)](https://www.python.org/)
+[![built with javascript](https://img.shields.io/badge/built%20with-D3-yellow.svg)](https://www.python.org/)
+
+
 # Data Journalism and D3
 
 <a target='_blank' href="https://giphy.com/gifs/newspaper-press-v2xIous7mnEYg"><img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" /> <br><em>via GIPHY</em></a>
